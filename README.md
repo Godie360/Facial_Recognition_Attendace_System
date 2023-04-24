@@ -71,6 +71,6 @@ Contributions are always welcome! Please read the [contribution guidelines](CONT
 
 ### Contact
 
-[Your Name](https://github.com/Godie360) - godfreyenos360@gmail.com
+[Email](https://github.com/Godie360) - godfreyenos360@gmail.com
 
-[![Follow Me on Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/godfrey_360)
+[![Follow Me on Twitter](https://img.shields.io/twitter/follow/Godfrey_360?style=social)](https://twitter.com/Godfrey_360)
