@@ -67,7 +67,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contributing
 
-Contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions to the FACE RECOGNITION ATTENDANCE SYSTEM are welcome and encouraged! If you would like to contribute, please fork the repository and submit a pull request.
 
 ### Contact
 
